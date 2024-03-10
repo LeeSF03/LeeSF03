@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @LeeSF03
-- 👀 I’m interested in computer programming, mathematics and hope to one day be good at algorithms
-- 🌱 I’m currently learning backend development and frameworks
-- 💞️ I’m looking to collaborate on ---
-- 📫 How to reach me ---
+- ☁ Cloud: Azure
+- 💻 Frontend: React.JS, Next.JS, JavaScript, TypeScript
+- 🖥️ Backend: Go, Python, Django, PHP, Laravel
+- 🛠️ Devop: Docker, Kubernetes, Jenkins
+- 📱 Mobile: Flutter Dart
 
 <!---
 LeeSF03/LeeSF03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
