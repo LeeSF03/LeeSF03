@@ -2,6 +2,6 @@
 - ☁ Cloud: Azure
 - 💻 Frontend: React.JS, Next.JS, JavaScript, TypeScript
 - 🖥️ Backend: Go, Python, Django, PHP, Laravel
-- 🛠️ Devop: Docker, Kubernetes, Jenkins
+- 🛠️ Devop: Docker, Kubernetes, GitHub Actions
 - 📱 Mobile: Flutter Dart
 - 🛢️ Databse: PostgreSQL, MySQL
