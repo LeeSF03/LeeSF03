@@ -3,5 +3,5 @@
 - 💻 Frontend: React.JS, Next.JS, JavaScript, TypeScript
 - 🖥️ Backend: Go, Python, Django, PHP, Laravel
 - 🛠️ Devop: Docker, Kubernetes, GitHub Actions
-- 📱 Mobile: Flutter Dart
-- 🛢️ Databse: PostgreSQL, MySQL
+- 📱 Mobile: React Native, Expo.JS
+- 🛢️ Database: PostgreSQL, MySQL
